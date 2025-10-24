@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Content": "Great post! Very informative.",
+        "BlogPostId": 4,
+        "AuthorId": "93cb5e82-f738-4509-b08e-53d4232e4ca6",
+        "CreatedOn": "2025-09-29T12:00:00Z"
+    },
+    {
+        "Content": "Thanks for sharing this article.",
+        "BlogPostId": 4,
+        "AuthorId": "a9884282-5bd7-4474-b755-1ab85afdb04b",
+        "CreatedOn": "2025-09-29T13:00:00Z"
+    },
+    {
+        "Content": "I totally agree with your point.",
+        "BlogPostId": 5,
+        "AuthorId": "93cb5e82-f738-4509-b08e-53d4232e4ca6",
+        "CreatedOn": "2025-09-29T14:00:00Z"
+    },
+    {
+        "Content": "Can you write more details about this?",
+        "BlogPostId": 6,
+        "AuthorId": "93cb5e82-f738-4509-b08e-53d4232e4ca6",
+        "CreatedOn": "2025-09-29T15:30:00Z"
+    }
+]
